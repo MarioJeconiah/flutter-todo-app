@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "593367969378",
+    "project_id": "anime-verse-fd0f0",
+    "storage_bucket": "anime-verse-fd0f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593367969378:android:9c9639274c413655c3ab3b",
+        "android_client_info": {
+          "package_name": "com.example.pert6labpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593367969378-5v7n05s1ld4ugbv2781l4aq70c6o7b0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pert6labpm",
+            "certificate_hash": "5a56b04ae11d4e6bd2d08095addf189b4af4b84b"
+          }
+        },
+        {
+          "client_id": "593367969378-s6206clus5im2772c5r090834qknd16p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pert6labpm",
+            "certificate_hash": "acdcd637f1b0b15f16f6f1059c8fa4464d4d33cd"
+          }
+        },
+        {
+          "client_id": "593367969378-2v6vnnd7b3c9hhe7rd6i785h4vledndi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKEin5rMrhIa9pRg-S0oqEc7H2XvaLK64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593367969378-2v6vnnd7b3c9hhe7rd6i785h4vledndi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
